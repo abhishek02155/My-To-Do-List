@@ -1,1 +1,18 @@
-# My-To-Do-List
+# ✅ To-Do List App
+
+A simple and responsive To-Do List built with HTML, CSS & JavaScript.
+
+## Features
+- ➕ Add tasks
+- ✅ Mark as complete
+- ✏️ Edit tasks inline
+- 🗑️ Delete tasks
+- 📋 Filter: All / Active / Done
+- 💾 LocalStorage persistence
+- 📱 Fully responsive
+
+## Tech Stack
+HTML · CSS · JavaScript (Vanilla)
+
+## Live Demo
+> [Add GitHub Pages link here after deployment]
