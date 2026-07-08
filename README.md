@@ -15,4 +15,4 @@ A simple and responsive To-Do List built with HTML, CSS & JavaScript.
 HTML · CSS · JavaScript (Vanilla)
 
 ## Live Demo
-> [Add GitHub Pages link here after deployment]
+ https://my-to-do-list-weld.vercel.app/
